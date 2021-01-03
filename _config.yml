@@ -46,44 +46,44 @@ sidebar:
             title: global.archives
             url: /all-archives
             icon: fa fa-archive
-        search:
-            title: global.search
-            url: "#search"
-            icon: fa fa-search
-            # `open-algolia-search` classes are used to open algolia search modal
-            class: open-algolia-search
-        about:
-            title: global.about
-            url: "#about"
-            icon: fa fa-question
+        # search:
+        #     title: global.search
+        #     url: "#search"
+        #     icon: fa fa-search
+        #     # `open-algolia-search` classes are used to open algolia search modal
+        #     class: open-algolia-search
+        # about:
+        #     title: global.about
+        #     url: "/#about"
+        #     icon: fa fa-question
     author_links:
         github:
             title: global.github
-            url: https://github.com/
+            url: https://github.com/chacham
             icon: fab fa-github
-        stack_overflow:
-            title: global.stack_overflow
-            url: http://stackoverflow.com/users
-            icon: fab fa-stack-overflow
-        twitter:
-            title: global.twitter
-            url: https://twitter.com/
-            icon: fab fa-twitter
-        facebook:
-            title: global.facebook
-            url: https://facebook.com/
-            icon: fab fa-facebook
-        google_plus:
-            title: global.google_plus
-            url: https://plus.google.com/
-            icon: fab fa-google-plus
+        # stack_overflow:
+        #     title: global.stack_overflow
+        #     url: http://stackoverflow.com/users
+        #     icon: fab fa-stack-overflow
+        # twitter:
+        #     title: global.twitter
+        #     url: https://twitter.com/
+        #     icon: fab fa-twitter
+        # facebook:
+        #     title: global.facebook
+        #     url: https://facebook.com/
+        #     icon: fab fa-facebook
+        # google_plus:
+        #     title: global.google_plus
+        #     url: https://plus.google.com/
+        #     icon: fab fa-google-plus
         linked_in:
             title: global.linkedin
-            url: https://www.linkedin.com/profile/
+            url: https://www.linkedin.com/in/changmin-choi-99971b148/
             icon: fab fa-linkedin
         mail:
             title: global.mail
-            url: mailto
+            url: mailto:ccm0702@naver.com
             icon: fa fa-envelope
     rss:
         rss:
@@ -117,21 +117,21 @@ header:
 
 # Your biography and your job is editable in each languages files in `languages` folder
 author:
-    email:
-    location:
+    email: ccm0702@naver.com
+    location: "Seongnam, \n South Korea"
     # Your profile picture located in folder `source/_images/` (development)
     # or in `source/assets/images/` (production)
     # or you can use an external url
     # Overwritten by your gravatar image if `gravatar_email` is filled
-    picture:
+    picture: profile.jpg
     # Your Twitter username without the @. E.g : `tranquilpeak`
-    twitter:
+    # twitter:
     # Your personal google plus profile id, not your blog or business page id.
     # E.g : `+JohnDoe` or `123812884128439`
-    google_plus:
+    # google_plus:
     # Your businnes google plus profile id. If not provided, personal will be used instead.
     # E.g : `+Tranquilpeak` or `123812884128439`
-    google_plus_business:
+    # google_plus_business:
 
 
 # -------------

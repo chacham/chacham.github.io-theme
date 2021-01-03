@@ -3,14 +3,14 @@ date_format: "YYYY/MM/DD"
 
 global:
     home: "Home"
-    categories: "카테고리"
-    category: "카테고리"
-    tags: "태그"
-    tag: "태그"
-    archives: "아카이브"
-    search: "검색"
+    categories: "Categories"
+    category: "Category"
+    tags: "Tags"
+    tag: "Tag"
+    archives: "Archives"
+    search: "Search"
     about: "About"
-    author_picture: "저자 이미지"
+    author_picture: "Author's picture"
     github: "GitHub"
     stack_overflow: "Stack Overflow"
     twitter: "Twitter"
@@ -80,8 +80,6 @@ post:
         other: "%d 이미지"
 
 author:
-    # Your biography (마크다운과 HTML이 지원됩니다.)
-    bio: ""
-    # Your job
-    job: ""
+    bio: "의지박약 주니어 서버 개발자"
+    job: "Server Developer \n @<a href=\"https://linepluscorp.com/\">LINE Plus</a>"
 

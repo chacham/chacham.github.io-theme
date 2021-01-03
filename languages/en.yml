@@ -80,7 +80,5 @@ post:
         other: "%d images"
 
 author:
-    # Your biography (Markdown and HTML supported)
-    bio: ""
-    # Your job
-    job: ""
+    bio: "Weak-willed junior server developer"
+    job: "Server Developer \n @<a href=\"https://linepluscorp.com/\">LINE Plus</a>"
